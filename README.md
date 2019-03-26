@@ -1,6 +1,6 @@
 # string-to-url
 
-[![Build Status](https://travis-ci.com/pdkpavankumar/string-to-url.svg?branch=master)](https://travis-ci.org/pdkpavankumar/string-to-urlt) [![dependencies Status](https://david-dm.org/pdkpavankumar/string-to-url/status.svg)](https://david-dm.org/pdkpavankumar/string-to-url) [![devDependencies Status](https://david-dm.org/pdkpavankumar/string-to-url/dev-status.svg)](https://david-dm.org/pdkpavankumar/string-to-url?type=dev) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Build Status](https://travis-ci.com/pdkpavankumar/string-to-url.svg?branch=master)](https://travis-ci.org/pdkpavankumar/string-to-url) [![dependencies Status](https://david-dm.org/pdkpavankumar/string-to-url/status.svg)](https://david-dm.org/pdkpavankumar/string-to-url) [![devDependencies Status](https://david-dm.org/pdkpavankumar/string-to-url/dev-status.svg)](https://david-dm.org/pdkpavankumar/string-to-url?type=dev) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Installation
 
