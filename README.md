@@ -15,7 +15,9 @@ $ npm install string-to-url --save-dev
 getUrls -- will give the array of urls present in the string
 
 getHTMLText -- return HTML text converting all links to anchor tags. 
-                Pass options object with all required properties if needed ex: target, title. e.t.c {target: '__blank'}
+                
+     Pass options object with all required properties if needed ex: target, title. e.t.c  
+     ex: { target: '__blank' }
 
 example1
 ```js
